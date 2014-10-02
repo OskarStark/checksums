@@ -19,7 +19,7 @@ It will output something along the lines of:
 .. code-block:: text
 
     symfony/swiftmailer-bundle@v2.2.6                        OK  files signature
-    symfony/symfony@v2.5.2                                   KO  files signature
+    symfony/symfony@v2.5.2                                   OK  files signature
     twig/extensions@v1.0.1                                   OK  files signature
     twig/twig@v1.15.0                                        OK  files signature
     white-october/pagerfanta-bundle@dev-master               --  unknown package
